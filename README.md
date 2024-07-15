@@ -1,6 +1,6 @@
 <h1 align="center"> Inveto </h1> <br>
-<p align="center">[logo](https://github.com/user-attachments/assets/a8bb978f-0be7-4627-bcd0-a2873c02faac)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a8bb978f-0be7-4627-bcd0-a2873c02faac" alt="logo">
 </p>
 
 <p align="center">
@@ -44,7 +44,8 @@
 View repository and user information, control your notifications and even manage your issues and pull requests. Built with Flutter, Inveto is an eased inventroy management application designed for end-to-end store tracking.
 **Available for both iOS and Android.**
 
-<p align="center">![mockup](https://github.com/user-attachments/assets/e59f1f37-a454-4b17-a221-2e978c0d3bf9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e59f1f37-a454-4b17-a221-2e978c0d3bf9" alt="logo">
 </p>
 ## Features
 
