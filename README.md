@@ -1,5 +1,6 @@
 <h1 align="center"> Inveto </h1> <br>
-<p align="center">![logo](https://github.com/user-attachments/assets/7c8b777d-aa13-48f3-a642-8b14e706a6ed)
+<p align="center">[logo](https://github.com/user-attachments/assets/a8bb978f-0be7-4627-bcd0-a2873c02faac)
+
 </p>
 
 <p align="center">
