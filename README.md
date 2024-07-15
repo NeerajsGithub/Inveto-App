@@ -25,14 +25,6 @@ Access Request Handling: Manage access requests from other users by verifying QR
 Profile Updates: Modify personal details and manage profile settings as needed.
 
 Screenshots
-![4](https://github.com/user-attachments/assets/5a509736-bb7d-4abd-a0f7-3a470cfd730f)
-Description: Login and account creation options upon opening the app.
-![3](https://github.com/user-attachments/assets/d0243fc7-4e65-4227-85a1-9babbaf2b389)
-Description: Login and account creation options upon opening the app.
-![2](https://github.com/user-attachments/assets/fd5edf11-5ffc-42bc-80ab-663f36a54866)
-Description: Login and account creation options upon opening the app.
-![1](https://github.com/user-attachments/assets/e97725ed-5a5a-4c6a-9953-4fe79b45e076)
-Description: Login and account creation options upon opening the app.
 ![mockup](https://github.com/user-attachments/assets/f5f55769-2640-4aab-ae16-68a3208f9e36)
 Description: Login and account creation options upon opening the app.
 
