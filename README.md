@@ -1,6 +1,6 @@
 <h1 align="center"> Inveto </h1> <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a8bb978f-0be7-4627-bcd0-a2873c02faac" alt="logo">
+  <img src="https://github.com/user-attachments/assets/a8bb978f-0be7-4627-bcd0-a2873c02faac" alt="logo" width="200">
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ View repository and user information, control your notifications and even manage
 **Available for both iOS and Android.**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e59f1f37-a454-4b17-a221-2e978c0d3bf9" alt="logo">
+  <img src="https://github.com/user-attachments/assets/e59f1f37-a454-4b17-a221-2e978c0d3bf9" alt="logo" width="400">
 </p>
 ## Features
 
