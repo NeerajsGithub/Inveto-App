@@ -44,9 +44,7 @@
 View repository and user information, control your notifications and even manage your issues and pull requests. Built with Flutter, Inveto is an eased inventroy management application designed for end-to-end store tracking.
 **Available for both iOS and Android.**
 
-<p align="center">
   <img src="https://github.com/user-attachments/assets/e59f1f37-a454-4b17-a221-2e978c0d3bf9" alt="logo" width="400">
-</p>
 ## Features
 
 Inveto offers a variety of features to streamline store management and inventory control:
