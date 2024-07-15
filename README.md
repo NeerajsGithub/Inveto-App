@@ -34,7 +34,6 @@
 
 ## Introduction
 
-[![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
 [![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
 [![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -44,28 +43,33 @@
 View repository and user information, control your notifications and even manage your issues and pull requests. Built with Flutter, Inveto is an eased inventroy management application designed for end-to-end store tracking.
 **Available for both iOS and Android.**
 
-  <img src="https://github.com/user-attachments/assets/e59f1f37-a454-4b17-a221-2e978c0d3bf9" alt="logo" width="400">
-## Features
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="flex: 1;">
+    <img src="https://github.com/user-attachments/assets/e59f1f37-a454-4b17-a221-2e978c0d3bf9" alt="logo" width="350">
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <h1>Features</h1>
 
-Inveto offers a variety of features to streamline store management and inventory control:
+    Inveto offers a variety of features to streamline store management and inventory control:
 
-- **Store Management**: Add, remove, and update store details.
-- **Product Management**: Register new products, update details, and manage inventory.
-- **QR Code Integration**: Register products using QR codes for quick access and management.
-- **User Authentication**: Secure login and account creation for access to app features.
-- **Multi-user Access Control**: Manage access requests and permissions between users.
-- **Profile Management**: Update user profile information and settings.
+    - **Store Management**: Add, remove, and update store details.
+    - **Product Management**: Register new products, update details, and manage inventory.
+    - **QR Code Integration**: Register products using QR codes for quick access and management.
+    - **User Authentication**: Secure login and account creation for access to app features.
+    - **Multi-user Access Control**: Manage access requests and permissions between users.
+    - **Profile Management**: Update user profile information and settings.
 
-## Build Process
+    ## Build Process
 
-To set up and run Inveto locally, follow these steps:
+    To set up and run Inveto locally, follow these steps:
 
-- Follow the [Flutter Guide](https://flutter.dev/docs/get-started/install) to install Flutter and set up your development environment.
-- Clone this repository.
-- Navigate to the project directory.
-- Run `flutter pub get` to install dependencies.
-- Connect a physical device or start an emulator.
-- Run the app using `flutter run`.
+    - Follow the [Flutter Guide](https://flutter.dev/docs/get-started/install) to install Flutter and set up your development environment.
+    - Clone this repository.
+    - Navigate to the project directory.
+    - Run `flutter pub get` to install dependencies.
+    - Connect a physical device or start an emulator.
+    - Run the app using `flutter run`.
 
-For advanced setup and troubleshooting tips, refer to the [contributing guidelines](./CONTRIBUTING.md).
-
+    For advanced setup and troubleshooting tips, refer to the [contributing guidelines](./CONTRIBUTING.md).
+  </div>
+</div>
